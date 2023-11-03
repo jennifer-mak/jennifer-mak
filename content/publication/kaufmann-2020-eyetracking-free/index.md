@@ -1,0 +1,53 @@
+---
+title: Eyetracking during Free Visual Exploration Detects Neglect More Reliably than
+  Paper-Pencil Tests
+authors:
+- Brigitte C. Kaufmann
+- Dario Cazzoli
+- Tobias Pflugshaupt
+- Stephan Bohlhalter
+- Tim Vanbellingen
+- René M. Müri
+- Tobias Nef
+- Thomas Nyffeler
+date: '2020-08-01'
+publishDate: '2023-11-03T03:35:12.842565Z'
+publication_types:
+- article-journal
+publication: '*Cortex*'
+doi: 10.1016/j.cortex.2020.04.021
+abstract: Neglect after stroke is most accurately diagnosed by a systematic, ecological
+  observation during everyday behaviour using the Catherine Bergego Scale (CBS). However,
+  the CBS is time-consuming and often omitted in clinical settings, especially stroke
+  units. In this study, we aimed to explore if video-oculography during free visual
+  exploration (FVE), which can be performed in few minutes, is sensitive in mirroring
+  neglect in everyday behaviour and whether it is more sensitive than conventional
+  neuropsychological paper-pencil tests. In this retrospective, observational, multicentre
+  study, we identified 78 patients in our database with subacute right-hemispheric
+  stroke, with and without neglect in everyday behaviour, diagnosed by the CBS, who
+  also performed FVE. 40 age-matched healthy participants served as controls. The
+  sensitivity to detect neglect was compared between FVE (i.e., mean gaze position
+  on the horizontal axis) and conventional neuropsychological paper-pencil tests,
+  i.e., Random Shape Cancellation, Line Bisection, Two-Part Picture, Bells, Star Cancellation,
+  Letter Cancellation, Sensitive Neglect, and Five-Point. FVE correctly identified
+  neglect in 85%of patients, with an AUC-value of .922 in ROC-analysis. Conventional
+  neuropsychological paper-pencil tests, considered alone or in combination, showed
+  heterogeneous results, and identified neglect significantly less often (21.74%–
+  68.75%). Moreover, there was a significant correlation between mean gaze position
+  and CBS scores, providing evidence for the relationship between FVE and neglect
+  in everyday behaviour. Furthermore, VLSM analyses suggested that the absence of
+  a pathological rightward bias in FVE might depend on the integrity of the second
+  branch of the right Superior Longitudinal Fascicle (SLF II), a white-matter tract
+  connecting cortical areas critical for visual attention. Video-oculography during
+  FVE has a high sensitivity and specificity to diagnose neglect after stroke and
+  it is more sensitive than conventional neuropsychological paper-pencil tests. It
+  can be performed in short time and has the potential to be used as a fast and accurate
+  screening tool that allows the initiation of comprehensive neuropsychological diagnostics
+  and therapy from early on.
+tags:
+- Neglect
+- Right-hemispheric stroke
+- ROC analyses
+- Sensitivity
+- Video-oculography
+---

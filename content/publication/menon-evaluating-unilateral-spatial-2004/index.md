@@ -1,0 +1,32 @@
+---
+title: 'Evaluating Unilateral Spatial Neglect Post Stroke: Working Your Way through
+  the Maze of Assessment Choices'
+authors:
+- Anita Menon
+- Nicol Korner-Bitensky
+date: '2004-01-01'
+publishDate: '2023-11-03T03:35:13.201688Z'
+publication_types:
+- article-journal
+publication: '*Topics in Stroke Rehabilitation*'
+doi: 10.1310/KQWL-3HQL-4KNM-5F4U
+abstract: This study identified, using a comprehensive review of the literature, 62
+  standardized and nonstandardized assessment tools that exist to evaluate unilateral
+  spatial neglect (USN). Each standardized tool was critically appraised according
+  to its purpose (hemispace assessed), psychometric properties, and client appropriateness.
+  The findings on the 28 standardized tools were compiled into a USN Assessment Summary
+  Guide to facilitate clinical decision-making regarding the standardized USN assessments
+  that are appropriate for specific clients at different phases of their recovery
+  post stroke.
+tags:
+- Assessment tools
+- Evaluation
+- Inattention
+- Psychometric properties
+- Reliability
+- Stroke
+- Unilateral spatial neglect
+- Validity
+- Visual neglect
+- Visual perception
+---

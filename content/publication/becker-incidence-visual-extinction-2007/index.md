@@ -1,0 +1,33 @@
+---
+title: Incidence of Visual Extinction after Left versus Right Hemisphere Stroke
+authors:
+- Elisabeth Becker
+- Hans Otto Karnath
+date: '2007-01-01'
+publishDate: '2023-11-03T03:35:12.216210Z'
+publication_types:
+- article-journal
+publication: '*Stroke*'
+doi: 10.1161/STROKEAHA.107.489096
+abstract: BACKGROUND AND PURPOSE - Generally it is accepted that spatial neglect occurs
+  predominantly after stroke of the human right hemisphere. In contrast, it remained
+  controversial whether extinction follows the same hemispheric asymmetry. The opinion
+  prevails that the laterality of visual extinction is not as pronounced as it is
+  for spatial neglect. METHODS - To directly compare the incidence of the 2 disorders
+  within the same sample, spatial neglect and visual extinction were investigated
+  during a 1-year period in 83 consecutively admitted patients with unilateral right
+  or left hemisphere stroke. RESULTS - The incidence of visual extinction and of spatial
+  neglect was not significantly different, neither after left hemisphere (2.4% neglect;
+  4.9% extinction) nor after right hemisphere (26.2% neglect; 24.3% extinction) stroke.
+  CONCLUSIONS - Visual extinction seems to be as asymmetrically associated with the
+  human right hemisphere as is spatial neglect. © 2007 American Heart Association,
+  Inc.
+tags:
+- Brain damage
+- Clinical neurology
+- Cognitive impairment
+- Human
+- Neuropsychology
+- Spatial neglect
+- Visual extinction
+---

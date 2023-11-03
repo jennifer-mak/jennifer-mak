@@ -1,0 +1,32 @@
+---
+title: Differing Effects of an Immersive Virtual Reality Programme on Unilateral Spatial
+  Neglect on Activities of Daily Living
+authors:
+- Kazuhiro Yasuda
+- Daisuke Muroi
+- Mizuki Hirano
+- Kenta Saichi
+- Hiroyasu Iwata
+date: '2018-01-01'
+publishDate: '2023-11-03T03:35:13.938186Z'
+publication_types:
+- article-journal
+publication: '*BMJ Case Reports*'
+doi: 10.1136/bcr-2017-222860
+abstract: In clinical practice, therapists often encounter cases of unilateral spatial
+  neglect (USN) observed in far and near space. In this case report, immersive virtual
+  reality (VR) technology was adopted as a therapy tool in a patient with stroke with
+  severe near and far space neglect. Neuropsychological tests in near and far space
+  as well as the Catherine Bergego Scale (CBS), as an index of neglect in daily living,
+  were measured preintervention and postintervention. Improvement of neuropsychological
+  tests, particularly in far space, was clearly demonstrated postintervention. However,
+  CBS score did not change postintervention. This may be because the patient unsuccessfully
+  translated these visual search task skills used in far space to activities of daily
+  living. Our findings suggest the potential use of immersive VR technology in patients
+  with USN and highlight the VR programme's limited ability to fully recover a patient's
+  disability in natural settings.
+tags:
+- rehabilitation medicine
+- stroke
+- virtual rehabilitation
+---

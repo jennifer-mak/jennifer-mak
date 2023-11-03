@@ -1,0 +1,44 @@
+---
+title: A Kinematic Analysis of Distractor Interference Effects during Visually Guided
+  Action in Spatial Neglect
+authors:
+- Louise A. Corben
+- Jason B. Mattingley
+- John L. Bradshaw
+date: '2001-01-01'
+publishDate: '2023-11-03T03:35:12.418512Z'
+publication_types:
+- article-journal
+publication: '*Journal of the International Neuropsychological Society*'
+doi: 10.1017/S1355617701733073
+abstract: Patients with left spatial neglect following right hemisphere damage may
+  show anomalies in ipsilesional-limb movements directed to targets on their affected
+  side, in addition to their characteristic perceptual deficits. In this study we
+  examined the extent to which visually guided movements made by neglect patients
+  are susceptible to interference from concurrent visual distractors on the contralesional
+  or ipsilesional side of a designated target. Eleven right hemisphere patients with
+  visual neglect, plus 11 matched healthy controls, performed a double-step movement
+  task upon a digitizing tablet, using their ipsilesional hand to respond. On each
+  double-step trial the first component of the movement was cued to a common central
+  target, whereas the second component was cued unpredictably to a target on either
+  the contralesional or ipsilesional side. On separate trials lateral targets either
+  appeared alone or together with a concurrent distractor in an homologous location
+  in the opposite hemispace. In addition to being significantly slower and more error
+  prone than controls, neglect patients also exhibited a number of interference effects
+  from ipsilesional distractors. They often failed to move to left targets in the
+  presence of a right-sided distractor, or else they moved to the distractor itself
+  rather than to a contralesional target. The initial accelerative phase of their
+  movements to contralesional targets tended to be interrupted prematurely, and they
+  spent significantly more time in the terminal guidance phase of movements to contralesional
+  targets in the presence of an ipsilesional distractor. In contrast, contralesional
+  distractors had little effect on patients' movements to ipsilesional targets. We
+  conclude that right hemisphere damage induces a competitive bias that favors actions
+  to ipsilesional targets. This bias affects multiple stages of processing within
+  the visuomotor system, from initial programming through to the final stages of terminal
+  guidance.
+tags:
+- Interference effects
+- Right hemisphere
+- Selective attention
+- Spatial neglect
+---

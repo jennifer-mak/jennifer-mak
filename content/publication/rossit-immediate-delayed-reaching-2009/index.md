@@ -1,0 +1,44 @@
+---
+title: Immediate and Delayed Reaching in Hemispatial Neglect
+authors:
+- Stéphanie Rossit
+- Keith Muir
+- Ian Reeves
+- George Duncan
+- Philip Birschel
+- Monika Harvey
+date: '2009-01-01'
+publishDate: '2023-11-03T03:35:13.500034Z'
+publication_types:
+- article-journal
+publication: '*Neuropsychologia*'
+doi: 10.1016/j.neuropsychologia.2008.08.008
+abstract: "Milner and Goodale (The visual brain in action, Oxford: Oxford University
+  Press, 1995; The visual brain in action, 2nd ed., Oxford: Oxford University Press,
+  2006) propose a model of vision that makes a distinction between vision for perception
+  and vision for action. One strong claim of the model is that the dorsal stream's
+  control of action is designed for dealing with target stimuli in the 'here and now',
+  yet when time is allowed to pass and a reaction has to be made on the basis of a
+  visual memory, the ventral stream is required for successful performance. Regarding
+  the syndrome of hemispatial neglect, Milner and Goodale further claim that the visual
+  dorsal stream is relatively spared in these patients. In the current study we tested
+  whether neglect patients would indeed be unimpaired in immediate pointing, yet show
+  inaccurate pointing in a condition where a delay is interposed between the presentation
+  of the stimulus and the response signal (in particular in left space). We tested
+  the ability of nine neglect patients (and healthy and right hemisphere no neglect
+  control groups) to perform reaches towards immediate and delayed targets, placed
+  in left, central and right locations. Neglect patients showed no accuracy impairments
+  when asked to perform an immediate action. Conversely, when pointing towards remembered
+  leftward locations, they markedly overshoot the target or failed to initiate a reach
+  altogether. These results confirm that patients with neglect are not specifically
+  impaired when performing 'here and now' actions, but rather present deficits when
+  the visuomotor task taps into more perceptual 'off-line' representations thought
+  to depend on ventral visual stream activation. Crown Copyright © 2008."
+tags:
+- Delay
+- Hemispatial neglect
+- Spatial working memory
+- Stroke
+- Two visual streams
+- Visuomotor performance
+---

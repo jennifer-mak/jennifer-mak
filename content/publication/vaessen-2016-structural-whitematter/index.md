@@ -1,0 +1,49 @@
+---
+title: Structural White-Matter Connections Mediating Distinct Behavioral Components
+  of Spatial Neglect in Right Brain-Damaged Patients
+authors:
+- Maarten J. Vaessen
+- Arnaud Saj
+- Karl Olof Lovblad
+- Markus Gschwind
+- Patrik Vuilleumier
+date: '2016-04-01'
+publishDate: '2023-11-03T03:35:13.771389Z'
+publication_types:
+- article-journal
+publication: '*Cortex*'
+doi: 10.1016/j.cortex.2015.12.008
+abstract: Spatial neglect is a neuropsychological syndrome in which patients fail
+  to perceive and orient to stimuli located in the space contralateral to the lesioned
+  hemisphere. It is characterized by a wide heterogeneity in clinical symptoms which
+  can be grouped into distinct behavioral components correlating with different lesion
+  sites. Moreover, damage to white-matter (WM) fiber tracts has been suggested to
+  disconnect brain networks that mediate different functions associated with spatial
+  cognition and attention. However, it remains unclear what WM pathways are associated
+  with functionally dissociable neglect components. In this study we examined nine
+  patients with a focal right hemisphere stroke using a series of neuropsychological
+  tests and diffusion tensor imaging (DTI) in order to disentangle the role of specific
+  WM pathways in neglect symptoms. First, following previous work, the behavioral
+  test scores of patients were factorized into three independent components reflecting
+  perceptual, exploratory, and object-centered deficits in spatial awareness. We then
+  examined the structural neural substrates of these components by correlating indices
+  of WM integrity (fractional anisotropy) with the severity of deficits along each
+  profile. Several locations in the right parietal and frontal WM correlated with
+  neuropsychological scores. Fiber tracts projecting from these locations indicated
+  that posterior parts of the superior longitudinal fasciculus (SLF), as well as nearby
+  callosal fibers connecting ipsilateral and contralateral parietal areas, were associated
+  with perceptual spatial deficits, whereas more anterior parts of SLF and inferior
+  fronto-occipital fasciculus (IFOF) were predominantly associated with object-centered
+  deficits. In addition, connections between frontal areas and superior colliculus
+  were found to be associated with the exploratory deficits. Our results provide novel
+  support to the view that neglect may result from disconnection lesions in distributed
+  brain networks, but also extend these notions by highlighting the role of dissociable
+  circuits in different functional components of the neglect syndrome. However these
+  preliminary findings require replication with larger samples of patients.
+tags:
+- Clinical neuroanatomy
+- Diffusion tensor imaging
+- Fiber tracking
+- Imaging
+- Neglect
+---

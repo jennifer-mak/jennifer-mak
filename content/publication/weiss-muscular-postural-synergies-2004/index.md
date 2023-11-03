@@ -1,0 +1,31 @@
+---
+title: Muscular and Postural Synergies of the Human Hand
+authors:
+- E. J. Weiss
+date: '2004-01-01'
+publishDate: '2023-11-03T03:35:13.875767Z'
+publication_types:
+- article-journal
+publication: '*Journal of Neurophysiology*'
+doi: 10.1152/jn.01265.2003
+abstract: Because humans have limited ability to independently control the many joints
+  of the hand, a wide variety of hand shapes can be characterized as a weighted combination
+  of just two or three main patterns of covariation in joint rotations, or \"postural
+  synergies.\" The present study sought to align muscle synergies with these main
+  postural synergies and to describe the form of membership of motor units in these
+  postural/muscle synergies. Seventeen joint angles and the electromyographic (EMG)
+  activities of several hand muscles (both intrinsic and extrinsic muscles) were recorded
+  while human subjects held the hand statically in 52 specific shapes (i.e., shaping
+  the hand around 26 commonly grasped objects or forming the 26 letter shapes of a
+  manual alphabet). Principal-components analysis revealed several patterns of muscle
+  synergy, some of which represented either coactivation of all hand muscles, or reciprocal
+  patterns of activity (above and below average levels) in the intrinsic index finger
+  and thumb muscles or (to a lesser extent) in the extrinsic four-tendoned extensor
+  and flexor muscles. Single- and multiunit activity was generally a multimodal function
+  of whole hand shape. This implies that motor-unit activation does not align with
+  a single synergy; instead, motor units participate in multiple muscle synergies.
+  Thus it appears that the organization of the global pattern of hand muscle activation
+  is highly distributed. This organization mirrors the highly fractured somatotopy
+  of cortical hand representations and may provide an ideal substrate for motor learning
+  and recovery from injury.
+---

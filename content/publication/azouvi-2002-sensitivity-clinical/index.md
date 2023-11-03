@@ -1,0 +1,52 @@
+---
+title: Sensitivity of Clinical and Behavioural Tests of Spatial Neglect after Right
+  Hemisphere Stroke
+authors:
+- Philippe Azouvi
+- Caffie Samuel
+- Anne Louis-Dreyfus
+- Thérèse Bernati
+- Paolo Bartolomeo
+- Jean Marie Beis
+- Sylvie Chokron
+- Michel Leclercq
+- Florence Marchal
+- Yanet Espinal Martin
+- Godeleine De Montety
+- Sylvie Olivier
+- Dominic Pérennou
+- Pascale Pradat-Diehl
+- Cécile Prairial
+- Gilles Rode
+- Éric Siéroff
+- Laurent Wiart
+- Marc Rousseaux
+date: '2002-01-01'
+publishDate: '2023-11-03T03:35:12.152245Z'
+publication_types:
+- article-journal
+publication: '*Journal of Neurology Neurosurgery and Psychiatry*'
+doi: 10.1136/jnnp.73.2.160
+abstract: 'Objectives: The lack of agreement regarding assessment methods is responsible
+  for the variability in the reported rate of occurrence of spatial neglect after
+  stroke. The aim of this study was to assess the sensitivity of different tests of
+  neglect after right hemisphere stroke. Methods: Two hundred and six subacute right
+  hemisphere stroke patients were given a test battery including a preliminary assessment
+  of anosognosia and of visual extinction, a clinical assessment of gaze orientation
+  and of personal neglect, and paper and pencil tests of spatial neglect in the peripersonal
+  space. Patients were compared with a previously reported control group. A subgroup
+  of patients (n=69) received a behavioural assessment of neglect in daily life situations.
+  Results: The most sensitive paper and pencil measure was the starting point in the
+  cancellation task. The whole battery was more sensitive than any single test alone.
+  About 85% of patients presented some degree of neglect on at least one measure.
+  An important finding was that behavioural assessment of neglect in daily life was
+  more sensitive than any other single measure of neglect. Behavioural neglect was
+  considered as moderate to severe in 36% of cases. A factorial analysis revealed
+  that paper and pencil tests were related to two underlying factors. Dissociations
+  were found between extrapersonal neglect, personal neglect, anosognosia, and extinction.
+  Anatomical analyses showed that neglect was more common and severe when the posterior
+  association cortex was damaged. Conclusions: The automatic rightward orientation
+  bias is the most sensitive clinical measure of neglect. Behavioural assessment is
+  more sensitive than any single paper and pencil test. The results also support the
+  assumption that neglect is a heterogeneous disorder.'
+---

@@ -1,0 +1,42 @@
+---
+title: 'Ecological Virtual Reality Evaluation of Neglect Symptoms (EVENS): Effects
+  of Virtual Scene Complexity in the Assessment of Poststroke Unilateral Spatial Neglect'
+authors:
+- Tatiana Ogourtsova
+- Philippe S. Archambault
+- Samir Sangani
+- Anouk Lamontagne
+date: '2018-01-01'
+publishDate: '2023-11-03T03:35:13.281803Z'
+publication_types:
+- article-journal
+publication: '*Neurorehabilitation and Neural Repair*'
+doi: 10.1177/1545968317751677
+abstract: Background. Unilateral spatial neglect (USN) is a highly prevalent and disabling
+  poststroke impairment. USN is traditionally assessed with paper-and-pencil tests
+  that lack ecological validity, generalization to real-life situations and are easily
+  compensated for in chronic stages. Virtual reality (VR) can, however, counteract
+  these limitations. Objective. We aimed to examine the feasibility of a novel assessment
+  of USN symptoms in a functional shopping activity, the Ecological VR-based Evaluation
+  of Neglect Symptoms (EVENS). Methods. EVENS is immersive and consists of simple
+  and complex 3-dimensional scenes depicting grocery shopping shelves, where joystick-based
+  object detection and navigation tasks are performed while seated. Effects of virtual
+  scene complexity on navigational and detection abilities in patients with (USN+,
+  n = 12) and without (USN-, n = 15) USN following a right hemisphere stroke and in
+  age-matched healthy controls (HC, n = 9) were determined. Results. Longer detection
+  times, larger mediolateral deviations from ideal paths and longer navigation times
+  were found in USN+ versus USN- and HC groups, particularly in the complex scene.
+  EVENS detected lateralized and nonlateralized USN-related deficits, performance
+  alterations that were dependent or independent of USN severity, and performance
+  alterations in 3 USN- subjects versus HC. Conclusion. EVENS' environmental changing
+  complexity, along with the functional tasks of far space detection and navigation
+  can potentially be clinically relevant and warrant further empirical investigation.
+  Findings are discussed in terms of attentional models, lateralized versus nonlateralized
+  deficits in USN, and tasks-specific mechanisms.
+tags:
+- assessment
+- diagnostic techniques and procedures
+- hemispatial neglect
+- perceptual disorder
+- virtual reality immersion therapy
+---

@@ -1,0 +1,40 @@
+---
+title: 'Determination of Motor Threshold Using Visual Observation Overestimates Transcranial
+  Magnetic Stimulation Dosage: Safety Implications'
+authors:
+- Gregory G. Westin
+- Bruce D. Bassi
+- Sarah H. Lisanby
+- Bruce Luber
+date: '2014-01-01'
+publishDate: '2023-11-03T03:35:13.884778Z'
+publication_types:
+- article-journal
+publication: '*Clinical Neurophysiology*'
+doi: 10.1016/j.clinph.2013.06.187
+abstract: 'Objective: While the standard has been to define motor threshold (MT) using
+  EMG to measure motor cortex response to transcranial magnetic stimulation (TMS),
+  another method of determining MT using visual observation of muscle twitch (OM-MT)
+  has emerged in clinical and research use. We compared these two methods for determining
+  MT. Methods: Left motor cortex MTs were found in 20 healthy subjects. Employing
+  the commonly-used relative frequency procedure and beginning from a clearly suprathreshold
+  intensity, two raters used motor evoked potentials and finger movements respectively
+  to determine EMG-MT and OM-MT. Results: OM-MT was 11.3% higher than EMG-MT (p$<$.
+  0.001), ranging from 0% to 27.8%. In eight subjects, OM-MT was more than 10% higher
+  than EMG-MT, with two greater than 25%. Conclusions: These findings suggest using
+  OM yields significantly higher MTs than EMG, and may lead to unsafe TMS in some
+  individuals. In more than half of the subjects in the present study, use of their
+  OM-MT for typical rTMS treatment of depression would have resulted in stimulation
+  beyond safety limits. Significance: For applications that involve stimulation near
+  established safety limits and in the presence of factors that could elevate risk
+  such as concomitant medications, EMG-MT is advisable, given that safety guidelines
+  for TMS parameters were based on EMG-MT. © 2013 International Federation of Clinical
+  Neurophysiology.'
+tags:
+- Electromyography
+- EMG
+- Motor threshold
+- Safety
+- TMS
+- Transcranial magnetic stimulation
+---

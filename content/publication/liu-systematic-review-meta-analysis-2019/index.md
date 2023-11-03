@@ -1,0 +1,43 @@
+---
+title: A Systematic Review and Meta-Analysis of Rehabilitative Interventions for Unilateral
+  Spatial Neglect and Hemianopia Poststroke From 2006 Through 2016
+authors:
+- Karen P.Y. Liu
+- Jessica Hanly
+- Paul Fahey
+- Shirley S.M. Fong
+- Rosalind Bye
+date: '2019-01-01'
+publishDate: '2023-11-03T03:35:13.055046Z'
+publication_types:
+- article-journal
+publication: '*Archives of Physical Medicine and Rehabilitation*'
+doi: 10.1016/j.apmr.2018.05.037
+abstract: 'Objective: To evaluate the effectiveness of activity-based, nonactivity-based,
+  and combined activity- and nonactivity-based rehabilitative interventions for individuals
+  presenting with unilateral spatial neglect (USN) and hemianopia. Data Sources: We
+  searched CINAHL, Cochrane Library, EMBASE, MEDLINE, and PubMed from 2006 to 2016.
+  Study Selection: Randomized controlled trials (RCTs) with a score of 6 or more in
+  the Physiotherapy Evidence Database Scale that examined the effects of activity-based
+  and nonactivity-based rehabilitation interventions for people with USN or hemianopia.
+  Two reviewers selected studies independently. Data Extraction: Extracted data from
+  the published RCTs. Mean differences (MD) or standardized mean differences (SMD),
+  and 95% confidence intervals (CIs) were calculated. Heterogeneity was assessed using
+  the I 2 statistic. Data Synthesis: A total of 20 RCTs for USN and 5 for hemianopia,
+  involving 594 and 206 stroke participants respectively, were identified. Encouraging
+  results were found in relation to activity-based interventions for visual scanning
+  training and compensatory training for hemianopia (MD=5.11; 95% confidence intervals
+  [95% CI], 0.83-9.4; P=.019; I 2 =25.16% on visual outcomes), and optokinetic stimulation
+  and smooth pursuit training for USN (SMD=0.49; 95% CI, 0.01-0.97; P=.045; I 2 =49.35%)
+  on functional performance in activities of daily living, (SMD=0.96; 95% CI, 0.09-1.82;
+  P=.031; I 2 =89.57%) on neglect. Conclusions: Activity-based interventions are effective
+  and commonly used in the treatment of USN and hemianopia. Nonactivity-based and
+  combined approaches, for both impairments, have not been refuted, because more studies
+  are required for substantiated conclusions to be drawn.'
+tags:
+- Activities of daily living
+- Hemianopia
+- Hemispatial neglect
+- Rehabilitation
+- Stroke
+---

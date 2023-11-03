@@ -1,0 +1,31 @@
+---
+title: 'Functional Assessment of Spatial Neglect: A Review of the Catherine Bergego
+  Scale and an Introduction of the Kessler Foundation Neglect Assessment Process'
+authors:
+- Peii Chen
+- Kimberly Hreha
+- Paola Fortis
+- Kelly Goedert
+- Anna Barrett
+date: '2012-01-01'
+publishDate: '2023-11-03T03:35:12.345519Z'
+publication_types:
+- article-journal
+publication: '*Topics in Stroke Rehabilitation*'
+doi: 10.1310/tsr1905-423
+abstract: Spatial neglect is a debilitating poststroke neurocognitive disorder associated
+  with prolonged hospitalization and poor rehabilitation outcomes. The literature
+  suggests a high prevalence of this disorder, but clinicians have difficulty reliably
+  identifying affected survivors. This discrepancy may result from suboptimal use
+  of validated neglect assessment procedures. In this article, we suggest use of a
+  validated assessment tool that is sensitive to identification of neglect and its
+  functional consequences - the Catherine Bergego Scale (CBS). We provide detailed
+  item-by-item instructions for observation and scoring - the Kessler Foundation Neglect
+  Assessment Process (KF-NAP). Rehabilitation researchers may be able to use the CBS
+  via the KF-NAP to measure ecological outcomes and specific, separable perceptual-attentional
+  and motor-exploratory spatial behaviors. © 2012 Thomas Land Publishers, Inc.
+tags:
+- Catherine Bergego Scale
+- neglect assessment
+- spatial neglect
+---

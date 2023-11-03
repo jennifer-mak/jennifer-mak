@@ -1,0 +1,42 @@
+---
+title: Disruption of Large-Scale Electrophysiological Networks in Stroke Patients
+  with Visuospatial Neglect
+authors:
+- Tomas Ros
+- Abele Michela
+- Anaïs Mayer
+- Anne Bellmann
+- Philippe Vuadens
+- Victorine Zermatten
+- Arnaud Saj
+- Patrik Vuilleumier
+date: '2022-01-01'
+publishDate: '2023-11-03T03:35:13.490622Z'
+publication_types:
+- article-journal
+publication: '*Network Neuroscience*'
+doi: 10.1162/netn_a_00210
+abstract: Stroke frequently produces attentional dysfunctions including symptoms of
+  hemispatial neglect, which is characterized by a breakdown of awareness for the
+  contralesional hemispace. Recent studies with functional MRI (fMRI) suggest that
+  hemineglect patients display abnormal intraand interhemispheric functional connectivity.
+  However, since stroke is a vascular disorder and fMRI signals remain sensitive to
+  nonneuronal (i.e., vascular) coupling, more direct demonstrations of neural network
+  dysfunction in hemispatial neglect are warranted. Here, we utilize electroencephalogram
+  (EEG) source imaging to uncover differences in resting-state network organization
+  between patients with right hemispheric stroke (N = 15) and agematched, healthy
+  controls (N = 27), and determine the relationship between hemineglect symptoms and
+  brain network organization. We estimated intra-and interregional differences in
+  cortical communication by calculating the spectral power and amplitude envelope
+  correlations of narrow-band EEG oscillations. We first observed focal frequency-slowing
+  within the right posterior cortical regions, reflected in relative delta/theta power
+  increases and alpha/beta/ gamma decreases. Secondly, nodes within the right temporal
+  and parietal cortex consistently displayed anomalous intra-and interhemispheric
+  coupling, stronger in delta and gamma bands, and weaker in theta, alpha, and beta
+  bands. Finally, a significant association was observed between the severity of left-hemispace
+  search deficits (e.g., cancellation test omissions) and reduced functional connectivity
+  within the alpha and beta bands. In sum, our novel results validate the hypothesis
+  of large-scale cortical network disruption following stroke and reinforce the proposal
+  that abnormal brain oscillations may be intimately involved in the pathophysiology
+  of visuospatial neglect.
+---

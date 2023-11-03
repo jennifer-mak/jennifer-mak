@@ -1,0 +1,41 @@
+---
+title: 'Virtual Reality Treatment and Assessments for Post-Stroke Unilateral Spatial
+  Neglect: A Systematic Literature Review'
+authors:
+- Tatiana Ogourtsova
+- Wagner Souza Silva
+- Philippe S. Archambault
+- Anouk Lamontagne
+date: '2017-01-01'
+publishDate: '2023-11-03T03:35:13.311051Z'
+publication_types:
+- article-journal
+publication: '*Neuropsychological Rehabilitation*'
+doi: 10.1080/09602011.2015.1113187
+abstract: Unilateral spatial neglect (USN) is a highly prevalent post-stroke deficit.
+  Currently, there is no gold standard USN assessment which encompasses the heterogeneity
+  of this disorder and that is sensitive to detect mild deficits. Similarly, there
+  is a limited number of high quality studies suggesting that conventional USN treatments
+  are effective in improving functional outcomes and reducing disability. Virtual
+  reality (VR) provides enhanced methods for USN assessment and treatment. To establish
+  best-practice recommendations with respect to its use, it is necessary to appraise
+  the existing evidence. This systematic review aimed to identify and appraise existing
+  VR-based USN assessments; and to determine whether VR is more effective than conventional
+  therapy. Assessment tools were critically appraised using standard criteria. The
+  methodological quality of the treatment trials was rated by two authors. The level
+  of evidence according to stage of recovery was determined. Findings were compiled
+  into a VR-based USN Assessment and Treatment Toolkit (VR-ATT). Twenty-three studies
+  were identified. The proposed VR tools augmented the conventional assessment strategies.
+  However, most studies lacked analysis of psychometric properties. There is limited
+  evidence that VR is more effective than conventional therapy in improving USN symptoms
+  in patients with stroke. It was concluded that VR-ATT could facilitate identification
+  and decision-making as to the appropriateness of VR-based USN assessments and treatments
+  across the continuum of stroke care, but more evidence is required on treatment
+  effectiveness.
+tags:
+- 3-dimensional environment
+- Cerebrovascular accident
+- Evidence
+- Hemineglect
+- Simulated reality
+---

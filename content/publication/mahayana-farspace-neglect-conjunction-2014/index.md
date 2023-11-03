@@ -1,0 +1,42 @@
+---
+title: Far-Space Neglect in Conjunction but Not Feature Search Following Transcranial
+  Magnetic Stimulation over Right Posterior Parietal Cortex
+authors:
+- Indra T. Mahayana
+- Chia Lun Liu
+- Chi Fu Chang
+- Daisy L. Hung
+- Ovid J.L. Tzeng
+- Chi Hung Juan
+- Neil G. Muggleton
+date: '2014-01-01'
+publishDate: '2023-11-03T03:35:13.119306Z'
+publication_types:
+- article-journal
+publication: '*Journal of Neurophysiology*'
+doi: 10.1152/jn.00492.2013
+abstract: Near- and far-space coding in the human brain is a dynamic process. Areas
+  in dorsal, as well as ventral visual association cortex, including right posterior
+  parietal cortex (rPPC), right frontal eye field (rFEF), and right ventral occipital
+  cortex (rVO), have been shown to be important in visuospatial processing, but the
+  involvement of these areas when the information is in near or far space remains
+  unclear. There is a need for investigations of these representations to help explain
+  the pathophysiology of hemispatial neglect, and the role of near and far space is
+  crucial to this. We used a conjunction visual search task using an elliptical array
+  to investigate the effects of transcranial magnetic stimulation delivered over rFEF,
+  rPPC, and rVO on the processing of targets in near and far space and at a range
+  of horizontal eccentricities. As in previous studies, we found that rVO was involved
+  in far-space search, and rFEF was involved regardless of the distance to the array.
+  It was found that rPPC was involved in search only in far space, with a neglect-like
+  effect when the target was located in the most eccentric locations. No effects were
+  seen for any site for a feature search task. As the search arrays had higher predictability
+  with respect to target location than is often the case, these data may form a basis
+  for clarifying both the role of PPC in visual search and its contribution to neglect,
+  as well as the importance of near and far space in these. © 2014 the American Physiological
+  Society.
+tags:
+- Far space
+- Near space
+- Parietal cortex
+- Visual search
+---

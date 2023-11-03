@@ -1,0 +1,37 @@
+---
+title: Alterations in Upper Limb Muscle Synergy Structure in Chronic Stroke Survivors
+authors:
+- J. Roh
+- W. Z. Rymer
+- E. J. Perreault
+- S. B. Yoo
+- R. F. Beer
+date: '2013-01-01'
+publishDate: '2023-11-03T03:35:13.472114Z'
+publication_types:
+- article-journal
+publication: '*Journal of Neurophysiology*'
+doi: 10.1152/jn.00670.2012
+abstract: Previous studies in neurologically intact subjects have shown that motor
+  coordination can be described by task-dependent combinations of a few muscle synergies,
+  defined here as a fixed pattern of activation across a set of muscles. Arm function
+  in severely impaired stroke survivors is characterized by stereotypical postural
+  and movement patterns involving the shoulder and elbow. Accordingly, we hypothesized
+  that muscle synergy composition is altered in severely impaired stroke survivors.
+  Using an isometric force matching protocol, we examined the spatial activation patterns
+  of elbow and shoulder muscles in the affected arm of 10 stroke survivors (Fugl-Meyer
+  $<$25/66) and in both arms of six age-matched controls. Underlying muscle synergies
+  were identified using non-negative matrix factorization. In both groups, muscle
+  activation patterns could be reconstructed by combinations of a few muscle synergies
+  (typically 4). We did not find abnormal coupling of shoulder and elbow muscles within
+  individual muscle synergies. In stroke survivors, as in controls, two of the synergies
+  were comprised of isolated activation of the elbow flexors and extensors. However,
+  muscle synergies involving proximal muscles exhibited consistent alterations following
+  stroke. Unlike controls, the anterior deltoid was coactivated with medial and posterior
+  deltoids within the shoulder abductor/extensor synergy and the shoulder adductor/flexor
+  synergy in stroke was dominated by activation of pectoralis major, with limited
+  anterior deltoid activation. Recruitment of the altered shoulder muscle synergies
+  was strongly associated with abnormal task performance. Overall, our results suggest
+  that an impaired control of the individual deltoid heads may contribute to poststroke
+  deficits in arm function.
+---

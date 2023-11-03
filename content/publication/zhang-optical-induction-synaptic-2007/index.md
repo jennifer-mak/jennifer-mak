@@ -1,0 +1,19 @@
+---
+title: Optical Induction of Synaptic Plasticity Using a Light-Sensitive Channel
+authors:
+- Yan Ping Zhang
+- Thomas G. Oertner
+date: '2007-01-01'
+publishDate: '2023-11-03T03:35:13.965188Z'
+publication_types:
+- article-journal
+publication: '*Nature Methods*'
+doi: 10.1038/nmeth988
+abstract: We have combined millisecond activation of channelrhodopsin-2 (ChR2), a
+  light-gated ion channel, with two-photon calcium imaging to investigate active synaptic
+  contacts in rat hippocampal slice cultures. Calcium influx was larger during light-induced
+  action potentials than during action potentials induced by somatic current injection,
+  leading to highly reproducible synaptic transmission. Pairing of light stimulation
+  with postsynaptic depolarization induced long-term potentiation, making this technique
+  ideal for genetic and pharmacological dissection of synaptic plasticity.
+---

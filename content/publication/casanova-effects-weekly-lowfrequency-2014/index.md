@@ -1,0 +1,41 @@
+---
+title: Effects of Weekly Low-Frequency rTMS on Autonomic Measures in Children with
+  Autism Spectrum Disorder
+authors:
+- Manuel Fernando Casanova
+- Marie K. Hensley
+- Estate M. Sokhadze
+- Ayman S. El-Baz
+- Yao Wang
+- Xiaoli Li
+- Lonnie Sears
+date: '2014-01-01'
+publishDate: '2023-11-03T03:35:12.308664Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Human Neuroscience*'
+doi: 10.3389/fnhum.2014.00851
+abstract: The term autism spectrum disorder (ASD) describes a range of conditions
+  characterized by impairments in social interactions, communication, and by restricted
+  and repetitive behaviors. Autism spectrum disorder may also present with symptoms
+  suggestive of autonomic nervous system (ANS) dysfunction. The objective of this
+  study was to determine the effect of 18 sessions of low frequency (LF) repetitive
+  transcranial magnetic stimulation (rTMS) on autonomic function in children with
+  ASD by recording electrocardiogram (ECG) and electrodermal activity (EDA) pre- post-
+  and during each rTMS session. The autonomic measures of interest in this study were
+  R-R cardiointervals in EKG (R-R), time and frequency domain measures of heart rate
+  variability (HRV) and skin conductance level (SCL). Heart rate variability measures
+  such as R-R intervals, standard deviation of cardiac intervals, pNN50 (percentage
+  of cardiointervals $>$50 ms different from preceding interval), power of high frequency
+  (HF) and LF components of HRV spectrum, LF/HF ratio, were then derived from the
+  recorded EKG. We expected that the course of 18 weekly inhibitory LF rTMS applied
+  to the dorsolateral prefrontal cortex (DLPFC) would enhance autonomic balance by
+  facilitating frontal inhibition of limbic activity thus resulting in decreased overall
+  heart rate (HR), increased HRV (in a form of increased HF power), decreased LF power
+  (resulting in decreased LF/HF ratio), and decreased SCL. Behavioral evaluations
+  post-18 TMS showed decreased irritability, hyperactivity, stereotype behavior and
+  compulsive behavior ratings while autonomic measures indicated a significant increase
+  in cardiac interval variability and a decrease of tonic SCL. The results suggest
+  that 18 sessions of LF rTMS in ASD results in increased cardiac vagal control and
+  reduced sympathetic arousal.
+---
