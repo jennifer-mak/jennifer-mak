@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am a fifth-year Bioengineering PhD Candidate working in the Rehab Neural Engineering Labs (RNEL) at Pitt. 
+I am a fifth-year Bioengineering PhD Candidate working in the Rehab Neural Engineering Labs (RNEL) at Pitt. My thesis work is on how experiencing a stroke changes the brain, in ways that lead to motor deficits and cognitive impairments like visuospatial neglect. By probing the mechanisms by which these impairments arise, we can work towards developing better diagnostic tools for said impairments and more precisely tailor stroke rehabilitation. 
 {style="text-align: justify;"}
