@@ -92,17 +92,17 @@ social:
     icon_pack: fas
     link: mailto:jem356@pitt.edu
 #  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=C7M7gBIAAAAJ&hl=en
 #  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#    icon_pack: fab
+#    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jennifermak9/
