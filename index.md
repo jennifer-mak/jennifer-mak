@@ -20,4 +20,4 @@ Welcome to my page! I am currently in my fifth year of my PhD in Bioengineering 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
