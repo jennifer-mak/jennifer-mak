@@ -1,14 +1,14 @@
 main:
 
   - title: "Lifting as we climb: Experiences and recommendations from women in neural engineering"
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    authors: Maria K Jantz, <strong>Jennifer Mak</strong>, Ashley N Dalrymple, Juhi Farooqui, Erinn M Grigsby, Angelica J Herrera, Elvira Pirondini, Jennifer L Collinger
+    conference_short: FRONT NEUROSCI
+    conference: Frontiers in Neuroscience, 2023.
+    pdf: https://www.frontiersin.org/articles/10.3389/fnins.2023.1104419/full?trk=public_post_comment-text
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/frontiers.jpg
+    notes: Journal Paper - Review
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
