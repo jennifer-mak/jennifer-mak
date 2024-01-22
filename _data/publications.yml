@@ -3,38 +3,38 @@ main:
   - title: Lifting as we climb: Experiences and recommendations from women in neural engineering
     authors: Maria K Jantz, <strong>Jennifer Mak</strong>, Ashley N Dalrymple, Juhi Farooqui, Erinn M Grigsby, Angelica J Herrera, Elvira Pirondini, Jennifer L Collinger
     conference: Frontiers in Neuroscience, 2023.
-    pdf: https://www.frontiersin.org/articles/10.3389/fnins.2023.1104419/full?trk=public_post_comment-text
-    image: ./assets/img/teaser_example_2.png
+    # pdf: https://www.frontiersin.org/articles/10.3389/fnins.2023.1104419/full?trk=public_post_comment-text
+    # image: ./assets/img/teaser_example_2.png
     notes: Journal Paper - Review 
 
-- title: Using Neurofeedback from Steady-State Visual Evoked Potentials to Target Affect-Biased Attention in Augmented Reality
+  - title: Using Neurofeedback from Steady-State Visual Evoked Potentials to Target Affect-Biased Attention in Augmented Reality
     authors: Xiaofei Huang, <strong>Jennifer Mak</strong>, Anna Wears, Rebecca B Price, Murat Akcakaya, Sarah Ostadabbas, Mary L Woody
     conference_short: IEEE EMBC
     conference: 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, 2022.
-    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801955/
-    image: ./assets/img/teaser_example_2.png
+    #pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801955/
+    #image: ./assets/img/teaser_example_2.png
     notes: Conference Proceeding 
 
-- title: Detection of Stroke-Induced Visual Neglect and Target Response Prediction Using Augmented Reality and Electroencephalography
+  - title: Detection of Stroke-Induced Visual Neglect and Target Response Prediction Using Augmented Reality and Electroencephalography
     authors: <strong>Jennifer Mak*</strong>, Deniz Kocanaogullari*, Xiaofei Huang*, Jessica Kersey, Minmei Shih, Emily S Grattan, Elizabeth R Skidmore, George F Wittenberg, Sarah Ostadabbas, Murat Akcakaya (*co-authors)
     conference_short: IEEE TNSRE
     conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9814082
-    image: ./assets/img/teaser_example_2.png
+    #pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9814082
+    #image: ./assets/img/teaser_example_2.png
     notes: Journal Paper - Experimental
 
-- title: Fine-tuning and personalization of EEG-based neglect detection in stroke patients
+  - title: Fine-tuning and personalization of EEG-based neglect detection in stroke patients
     authors: Deniz Kocanaogullari, Xiaofei Huang, <strong>Jennifer Mak</strong>, Minmei Shih, Elizabeth Skidmore, George F Wittenberg, Sarah Ostadabbas, Murat Akcakaya
     conference_short: IEEE EMBC
     conference: 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society, 2021.
-    pdf: https://par.nsf.gov/servlets/purl/10340252
-    image: ./assets/img/teaser_example_2.png
+    #pdf: https://par.nsf.gov/servlets/purl/10340252
+    #image: ./assets/img/teaser_example_2.png
     notes: Conference Proceeding     
 
-- title: Eeg-based neglect detection for stroke patients
+  - title: Eeg-based neglect detection for stroke patients
     authors: Deniz Kocanaogullari, <strong>Jennifer Mak</strong>, Jessica Kersey, Aya Khalaf, Sarah Ostadabbas, George Wittenberg, Elizabeth Skidmore, Murat Akcakaya
     conference_short: IEEE EMBC
     conference: 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society, 2020.
-    pdf: https://par.nsf.gov/servlets/purl/10277183
-    image: ./assets/img/teaser_example_2.png
+    #pdf: https://par.nsf.gov/servlets/purl/10277183
+    #image: ./assets/img/teaser_example_2.png
     notes: Conference Proceeding     
