@@ -1,6 +1,6 @@
 main:
 
-  - title: Lifting as we climb: Experiences and recommendations from women in neural engineering
+  - title: "Lifting as we climb: Experiences and recommendations from women in neural engineering"
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
