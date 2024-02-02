@@ -10,7 +10,7 @@ Outside of research, I am also deeply passionate about increasing access to STEM
 
 ## Education
 
-![VCU]([https://github.githubassets.com/images/icons/emoji/octocat.png](https://github.com/jennifer-mak/jennifer-mak/blob/main/assets/img/VCU.png)) **PhD, Bioengineering -** University of Pittsburgh, August 2019 - June 2024 (coming soon!)
+![VCU]([assets/img/VCU.png)) **PhD, Bioengineering -** University of Pittsburgh, August 2019 - June 2024 (coming soon!)
 - **BS, Biomedical Engineering -** Virginia Commonwealth University, August 2015 - May 2019
 
 ## Research Interests
