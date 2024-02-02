@@ -9,7 +9,8 @@ Welcome to my page! I am currently in my fifth year of my PhD in Bioengineering 
 Outside of research, I am also deeply passionate about increasing access to STEM education, especially for women and historically marginalized populations, which has spurred my service work at Pitt and in the Greater Pittsburgh community. In my free time, I am an avid rock climber, hiker, and crocheter. 
 
 ## Education
-- **PhD, Bioengineering -** University of Pittsburgh, August 2019 - June 2024 (coming soon!)
+
+![VCU]([https://github.githubassets.com/images/icons/emoji/octocat.png](https://github.com/jennifer-mak/jennifer-mak/blob/main/assets/img/VCU.png)) **PhD, Bioengineering -** University of Pittsburgh, August 2019 - June 2024 (coming soon!)
 - **BS, Biomedical Engineering -** Virginia Commonwealth University, August 2015 - May 2019
 
 ## Research Interests
