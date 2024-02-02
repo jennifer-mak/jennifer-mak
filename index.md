@@ -2,8 +2,7 @@
 layout: homepage
 ---
 
-[Leadership](./leadership.html).
-
+[![Leadership](/assets/img/leadership.JPG)](./leadership.html)
 
 ## About Me
 
