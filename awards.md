@@ -10,7 +10,7 @@ A PhD is not possible without adequate funding, and I have the National Science 
 - National Science Foundation Graduate Research Fellowship Program (NSF GRFP) (2021-2024)
 - National Science Foundation Integrative Graduate Education and Research Traineeship Program: Interdisciplinary Research Training in Rehabilitation Engineering (NSF IGERT) (2019)
 
-## Awards
+## **Awards**
 I've also been lucky enough to be awarded a handful of scholarships and honors from various organizations throughout grad school. 
 - Neural Control of Movement Scholarship (2024)
 - CNBC Career Development Award (2024)
