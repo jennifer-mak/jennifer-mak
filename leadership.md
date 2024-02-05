@@ -15,8 +15,11 @@ In 2020, RNEL established a set of outreach committees dedicated to diversity, e
 ## **Organizing Brain Bags for the Center for the Neural Basis of Cognition (CNBC) (2021-2023)** 
 After two years as a member of the CNBC, I volunteered to help run the Brain Bag Committee with two other students in September 2021. In this year, we scheduled weekly talks from student members of the CNBC, which was a way for students to practice presenting their work and for others to learn about what their peers work on. The next year, we introduced a hybrid presentation format, which greatly increased participation and facilitated discussions. Feedback of the events indicated a greater sense of community, especially with in-person attendance, and appreciation for the increased accessibility of the talks. 
 
-## **Co-Editor-in-Chief of _Ingenium_ (2020-2021)** 
-[_Ingenium_](https://www.engineering.pitt.edu/research/office-of-research/Office-of-Research/) is an undergraduate engineering journal published by Pitt to showcase the summer research projects completed by Pitt students. As Co-Editor-in-Chief, my responsibilities included screening abstract and manuscript submissions and assigning them to reviewers, making final decisions on which submissions will advance to publication, and working with the publishing team to produce the publication. [Here was that year's publication!](https://issuu.com/pittswanson/docs/2021_ingenium_ada_compliant_final_publication) After my time as Co-Editor-in-Chief, I have continued to review papers as a member of the Graduate Student Review Board. 
+[![CNBC](/assets/img/CNBC.png)](https://www.cnbc.cmu.edu/)
 
+## **Co-Editor-in-Chief of _Ingenium_ (2020-2021)** 
+[_Ingenium_](https://www.engineering.pitt.edu/research/office-of-research/Office-of-Research/) is an undergraduate engineering journal published by Pitt to showcase the summer research projects completed by Pitt students. As Co-Editor-in-Chief, my responsibilities included screening abstract and manuscript submissions and assigning them to reviewers, making final decisions on which submissions will advance to publication, and working with the publishing team to produce the publication. After my time as Co-Editor-in-Chief, I have continued to review papers as a member of the Graduate Student Review Board. 
+
+[![Ingenium](/assets/img/ingenium.JPG)](https://issuu.com/pittswanson/docs/2021_ingenium_ada_compliant_final_publication)
 
 [back](./)
