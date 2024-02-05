@@ -2,6 +2,7 @@
 layout: homepage
 ---
 # Talks and Media
+Here are some places I spoke at, from conferences to podcasts.
 
 ## **Neural Control of Movement 2024**
 This April, I'll be giving a talk at the annual Neural Control of Movement meeting in Dubrovnik, Croatia! I'll be on a panel on the underlying mechanisms of motor impairments after stroke, discussing updates on my work that I first showed at SfN 2023. 
