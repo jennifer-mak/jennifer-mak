@@ -8,6 +8,7 @@ I am currently in my fifth year of my PhD in Bioengineering at the University of
 
 Outside of research, I am also deeply passionate about increasing access to STEM education, especially for women and historically marginalized populations, which has spurred my service work at Pitt and in the Greater Pittsburgh community. In my free time, I am an avid rock climber, hiker, and crocheter. 
 
+### **Click below for more!**
 [![Leadership](/assets/img/leadership.JPG)](./leadership.html)  [![Talks and Media](/assets/img/talks.JPG)](./talks.html)  [![Awards](/assets/img/awards.JPG)](./awards.html)
 
 ## Education
