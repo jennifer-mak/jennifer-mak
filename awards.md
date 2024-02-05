@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 # Awards and Fellowships
 Here's a snapshot of my awards and fellowships I've collected during grad school. 
 
