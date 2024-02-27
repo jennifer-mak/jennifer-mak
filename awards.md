@@ -16,3 +16,5 @@ I've also been lucky enough to be awarded a handful of scholarships and honors f
 - CNBC Career Development Award (2024)
 - Young Investigator Poster Presentation Award for the Early Career Investigator Contest at the Pittsburgh VA's Research Week (2023)
 - George M. Bevier Scholarship (2019)
+
+[back](./)
