@@ -21,3 +21,5 @@ I gave my first ever podium talk at a conference in November 2023 at the Society
 
 ## **How to Prelim**
 RNEL hosts monthly Professional and Technical Development seminars and every January, we give an informational session to first- and second-year PhD students in the Bioengineering program, particularly for those on the Neural Engineering track, on how to prepare for the PhD preliminary exam. We provide an overview of the exam, tips and tricks for the written and oral components, and general advice from those who had successfully completed this stage of their PhD. 
+
+[back](./)
