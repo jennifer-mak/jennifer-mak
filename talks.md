@@ -5,7 +5,7 @@ layout: homepage
 Here are some places I spoke at, from conferences to podcasts.
 
 ## **Neural Control of Movement 2024**
-This April, I'll be giving a talk at the annual Neural Control of Movement meeting in Dubrovnik, Croatia! I'll be on a panel on the underlying mechanisms of motor impairments after stroke, discussing updates on my work that I first showed at SfN 2023. 
+This April, I gave a talk at the annual Neural Control of Movement meeting in Dubrovnik, Croatia. I was a presenter on a panel on the underlying mechanisms of motor impairments after stroke, sharing our latest results on how we use TMS and kinematics to evaluate the contributions of the brain's non-primary motor areas to upper-limb motor control in subcortical stroke patients. 
 
 [![ncm](/assets/img/ncm.png)](https://ncm-society.org/program/)
 
